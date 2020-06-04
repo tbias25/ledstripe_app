@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94305254392",
+    "firebase_url": "https://ledstripe-63841.firebaseio.com",
+    "project_id": "ledstripe-63841",
+    "storage_bucket": "ledstripe-63841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94305254392:android:dc7e9df4f5e75a02f9b40d",
+        "android_client_info": {
+          "package_name": "app.ledstripe.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94305254392-rjtaeqdsp992r49f6b5v9k30361q8b19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ledstripe.android",
+            "certificate_hash": "dc8d26c1cd60c1508fccb94f59fbc2be979417d7"
+          }
+        },
+        {
+          "client_id": "94305254392-sve90odq2u94l26di0s9hkca29u3be60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZPrmQq8ENQJ9CJbGSYJQNcLyp4XcPRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94305254392-sve90odq2u94l26di0s9hkca29u3be60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
